@@ -1,6 +1,22 @@
 #BlueJ class context
-comment0.params=st\ av\ dir\ numBeepers
-comment0.target=DangerousBot(int,\ int,\ Direction,\ int)
-comment1.params=
-comment1.target=void\ choosePile()
-numComments=2
+comment0.target=DangerousBot
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=st\ av\ dir\ numBeepers
+comment1.target=DangerousBot(int,\ int,\ Direction,\ int)
+comment2.params=
+comment2.target=void\ choosePile()
+comment3.params=
+comment3.target=void\ decideEvenOrOdd()
+comment4.params=
+comment4.target=void\ chooseRoomEast()
+comment5.params=
+comment5.target=void\ chooseRoomWest()
+comment6.params=
+comment6.target=void\ chooseRoom()
+comment7.params=
+comment7.target=void\ faceEast()
+comment8.params=
+comment8.target=void\ faceWest()
+comment9.params=
+comment9.target=void\ faceNorth()
+numComments=10

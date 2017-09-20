@@ -1,7 +1,7 @@
 
 /**
-   @Author:
-      Date:
+   @Author: A. Zulch   
+      Date: 9/20/17
    Teacher: Appel
   */
 import kareltherobot.*;
